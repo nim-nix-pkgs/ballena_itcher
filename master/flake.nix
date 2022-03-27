@@ -11,7 +11,6 @@
   inputs.src-ballena_itcher-master.ref   = "refs/heads/master";
   inputs.src-ballena_itcher-master.owner = "juancarlospaco";
   inputs.src-ballena_itcher-master.repo  = "ballena-itcher";
-  inputs.src-ballena_itcher-master.dir   = "";
   inputs.src-ballena_itcher-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
