@@ -12,11 +12,11 @@
       },
       "locked": {
         "dir": "0_0_1",
-        "lastModified": 1668775724,
-        "narHash": "sha256-w0u70WwfU5776z2uMdHihpe97/CVC7EDv2t7AfZ6Eq4=",
+        "lastModified": 1669431005,
+        "narHash": "sha256-gZpEEQGlXMxp0utIegiaRhT4ZkTiGGhDpahqeyu7T+0=",
         "owner": "nim-nix-pkgs",
         "repo": "ballena_itcher",
-        "rev": "b3dec6bab6c948c56a4006bc30c501511747657b",
+        "rev": "322540bbed965dac33947fb20d2140ae995660b8",
         "type": "github"
       },
       "original": {
@@ -39,11 +39,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1668775724,
-        "narHash": "sha256-w0u70WwfU5776z2uMdHihpe97/CVC7EDv2t7AfZ6Eq4=",
+        "lastModified": 1669431005,
+        "narHash": "sha256-gZpEEQGlXMxp0utIegiaRhT4ZkTiGGhDpahqeyu7T+0=",
         "owner": "nim-nix-pkgs",
         "repo": "ballena_itcher",
-        "rev": "b3dec6bab6c948c56a4006bc30c501511747657b",
+        "rev": "322540bbed965dac33947fb20d2140ae995660b8",
         "type": "github"
       },
       "original": {
